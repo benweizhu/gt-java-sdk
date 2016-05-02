@@ -1,3 +1,10 @@
+gradle版
+
+./gradlew jettyRun
+
+http://localhost:8080/gt-java-sdk/login.jsp
+
+
 
 .. contents:: 目录
 
